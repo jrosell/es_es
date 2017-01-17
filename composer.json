@@ -1,0 +1,26 @@
+{
+  "name": "jrosell/es_es",
+  "description": "Spanish (Spain) language package for Magento 2",
+  "homepage": "https://triggerbit.com",
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0"
+  },
+  "type": "magento2-language",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "triggerbit team",
+      "email": "jroselln@gmail.com",
+      "homepage": "https://triggerbit.com",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
